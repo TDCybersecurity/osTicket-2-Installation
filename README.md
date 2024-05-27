@@ -1,13 +1,13 @@
 # osTicket-Installation-2
-Installation of Prerequisites and osTicket
+<h2>Installation of Prerequisites and osTicket</h2>
 
 Go to portal.azure.com and click on Home \> Locate vm-osTicketC \> note Public IP 40.84.7.95 and Private IP 10.0.0.4
-
-![](RackMultipart20240527-1-gnqdxa_html_cd15f3e129ebc7f9.png)
+![osTicket C 1](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e64ba1d6-df5c-4363-8c89-43cc765d14c0)
 
 At **Windows Start Menu** Search bar enter **Remote Desktop Connection** and sign in with Public IP 40.84.7.95
+![osTicket C 2](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/63d1b835-2566-407e-9d41-3c7c653e3bcc)
+![osTicket C 3](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/b8aea56e-720d-4c47-8fed-1216e2764242)
 
-![](RackMultipart20240527-1-gnqdxa_html_8a371a76f2dcebc5.png) ![](RackMultipart20240527-1-gnqdxa_html_126613047527df5f.png)
 
 In the VM choose **NO** for all **Privacy Settings for your device** and click **Accept****\>Continue\> **** Start without your data ****.**
 
