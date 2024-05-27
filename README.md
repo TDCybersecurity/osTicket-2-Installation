@@ -51,12 +51,10 @@ Expand Common HTTP Features (select all)
  HTTP Redirection  Static Content  WebDAV Publishing
 
 Now click **OK** and wait for **Windows completed the requested changes.** Click on **Close**
+![osTicket C Click on Close](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c8ee363d-fcaf-4af1-8669-31fbe45cf4c9)
 
 
 
-![osTicket C 1](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e8af79f1-be42-4a86-afeb-61137d8f06dc)
-![osTicket C 10](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/cb63416a-3c1f-4bdf-8f3a-da68b9d39e16)
-![osTicket C 9](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/ed11b671-a6a7-4f0b-adf7-e413ee0620cd)
 
 
 
@@ -68,7 +66,11 @@ Confirm the installation of **IIS**, go to a VM browser and type 127.0.0.1 to ob
 
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
 
-Go to File Explorer, observe the downloaded file. ![](RackMultipart20240527-1-gnqdxa_html_f891bc79b2b4127b.png)
+Go to File Explorer, observe the downloaded file. 
+![osTicket C 10](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/cb63416a-3c1f-4bdf-8f3a-da68b9d39e16)
+
+
+
 
 Double-click the file and follow the Setup Wizard
 
@@ -89,6 +91,8 @@ Install \> Finish \> Close
 **Create a directory C:\PHP**
 
 Go to File Explorer \> enter C: \>New \> Folder \>PHP
+![osTicket C 9](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/ed11b671-a6a7-4f0b-adf7-e413ee0620cd)
+![osTicket C 1](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e8af79f1-be42-4a86-afeb-61137d8f06dc)
 
 ![](RackMultipart20240527-1-gnqdxa_html_51b0ebb46e175f74.png)
 
