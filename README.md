@@ -14,8 +14,12 @@ In the VM choose **NO** for all **Privacy Settings for your device** and click *
 **This is a lab VM \*\*No need to bring over data as if you are setting up the device for everyday use \>** Click Finish.
 
 Copy and then paste the Installation Files into the VM URL so that download and install them.
+![osTicket C 4](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c4380ff0-4732-4979-a0bd-2e09e4be9f51)
 
-![](RackMultipart20240527-1-gnqdxa_html_9873744417c50fa6.png)
+
+
+
+
 
 | Php-7.3.8-nts-Win32-VC15-x86 | HeidiSQL\_12.3.0.6589 | mysql-5.5.62-win32.msi | osTicket-v1.15.8.zip |
 | --- | --- | --- | --- |
@@ -24,13 +28,13 @@ Copy and then paste the Installation Files into the VM URL so that download and 
 
 Ideally, you want to have both screens side by side.
 
-![](RackMultipart20240527-1-gnqdxa_html_32735f9d16250266.png)
+![osTicket C5](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/b19494c5-b9e7-4961-a4d7-1db258238eaf)
 
 **Configure IIS Internet Information Services**
 
 Go to Windows Right click the Start menu, and click run, type control in
 
-![](RackMultipart20240527-1-gnqdxa_html_45da475d0a3fe539.png)
+![osTicket C 6](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/606dbf42-dfa9-4ca8-a0b9-cfe5d522a01c)
 
 Select **Programs**\> **Turn Windows features on or off**\> Select the following features
 
@@ -48,11 +52,17 @@ Expand Common HTTP Features (select all)
 
 Now click **OK** and wait for **Windows completed the requested changes.** Click on **Close**
 
-![](RackMultipart20240527-1-gnqdxa_html_acc795fa125d2fe1.png)
+
+
+![osTicket C 1](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e8af79f1-be42-4a86-afeb-61137d8f06dc)
+![osTicket C 10](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/cb63416a-3c1f-4bdf-8f3a-da68b9d39e16)
+![osTicket C 9](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/ed11b671-a6a7-4f0b-adf7-e413ee0620cd)
+
+
 
 Confirm the installation of **IIS**, go to a VM browser and type 127.0.0.1 to observe the page.
+![osTicket C 7](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/26179fd5-37eb-4898-ab06-72a639a71362)
 
-![](RackMultipart20240527-1-gnqdxa_html_8b8d8a39913b21d7.png)
 
 **PHP Manager for IIS**, download and install.
 
