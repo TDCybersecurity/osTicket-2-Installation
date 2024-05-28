@@ -246,9 +246,11 @@ Go to include\>ost-config.php \> Right-click Properties \> Security \> Advanced 
 
 
 Confirm osTicket Admin login: [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
+![osTicket Admin](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/b8bb91a1-30e4-4c8a-829a-13e894af3fdf)
+
 
 Confirm End User login: [http://localhost/osTicket/](http://localhost/osTicket/)
+![osTicket End User](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e4c843f8-8d82-4817-b2a5-b911152938ea)
 
 
-
-![](RackMultipart20240527-1-gnqdxa_html_1e2f03c92d08c9d8.png)
+Thank you for reviewing my hands-on lab for osTicket Part 2
