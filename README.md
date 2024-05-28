@@ -205,6 +205,7 @@ Username: **Terry** Password: **Password1**
 **Install HeidiSQL**
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
 Go to File Explorer, observe the downloaded file.
+
 ![osTicket C 37](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c54c9086-0772-4b73-85d9-42f93ff6673f)
 
 
