@@ -1,5 +1,12 @@
-# osTicket-Installation-2
-<h2>Installation of Prerequisites and osTicket</h2>
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+# **osTicket-Installation-2**
+# **Installation of Prerequisites and osTicket**
+## **What is osTicket?**
+osTicket is a widely used and trusted open source ticketing system that allows you to easily scale and streamline your customer service tracking and improve your customer experience.
+
 
 Go to portal.azure.com and click on Home \> Locate vm-osTicketC \> note Public IP 40.84.7.95 and Private IP 10.0.0.4
 ![osTicket C 1](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e64ba1d6-df5c-4363-8c89-43cc765d14c0)
@@ -253,4 +260,5 @@ Confirm End User login: [http://localhost/osTicket/](http://localhost/osTicket/)
 ![osTicket End User](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e4c843f8-8d82-4817-b2a5-b911152938ea)
 
 
-Thank you for reviewing my hands-on lab for osTicket Part 2
+### **Congratulations!
+### **This lab demonstrates hands-on experience in configuring prerequisites and installing osTicket.**
