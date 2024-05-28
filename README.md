@@ -104,6 +104,13 @@ Click on **Microsoft Start**, enter **IIS** and **Run as administrator.**
 
 Observe previous downloads URL Rewrite and PHP Manager \> Click on **PHP Manager**
 ![osTicket C 20](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/70fae9f6-52b0-4167-9b86-9e0af6d11f40)
+![osTicket C 21](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/2fbeef7b-debe-4e79-9f3c-53d007910e8a)
+
+
+
+
+
+
 
 
 
@@ -112,32 +119,31 @@ Click on **Register new PHP version**\> Browse…\> PHP \> php-cgi \> Open\> OK
 
 
 
+
 Click on **vm-osTicketC**(vm-osTicketC) and click on **Restart**
 
 
 
 **Install osTicket**
-
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
-
 Go to **File Explorer**, observe the downloaded file. Open another **File Explorer** placing them side by side.
-
+![osTicket C 24](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/3af4a372-99d0-4e7f-9a6f-c285e35f5504)
 
 
 Double-click osTicket on green arrow page, so that you can drag and drop the upload folder.
-
 On the other window, go to This PC \> Windows (C:) \> inetpub \> wwwroot \> iisstart
-
-
+![osTicket C 25](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/92bf91fa-b814-4101-af3f-efa47202a4a8)
+![osTicket C 26](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c18b6844-6673-4012-a460-a7588d36c039)
 
 Rename **upfold** folder to **osTicket**
+![osTicket C 27](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/45744c58-1cec-4710-a42c-17c56fa4f417)
 
 Open **IIS** and **Restart** the server
+![osTicket C 28](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/e4b4f2d6-7f06-4958-9e37-e7cad18c6090)
 
 
-
-Vm-osTicketC \> Sites \> Default Web Site \>osTicket \> Browse \*.80 (http)
-
+vm-osTicketC \> Sites \> Default Web Site \>osTicket \> Browse \*.80 (http)
+![osTicket C 29](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/46a88a5d-8ea2-439b-97a7-005af7a83dfa)
 
 
 **osTicket Installer** appears \> Observe some features are not enabled
