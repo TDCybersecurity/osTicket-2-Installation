@@ -123,7 +123,7 @@ Observe previous downloads URL Rewrite and PHP Manager \> Click on **PHP Manager
 
 
 Click on **Register new PHP version**\> Browse…\> PHP \> php-cgi \> Open\> OK
-
+![osTicket C 22](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/1a075fce-263d-4ebf-989a-946c79495ace)
 
 
 
