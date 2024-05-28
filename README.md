@@ -128,7 +128,7 @@ Click on **Register new PHP version**\> Browse…\> PHP \> php-cgi \> Open\> OK
 
 
 Click on **vm-osTicketC**(vm-osTicketC) and click on **Restart**
-
+![osTicket C 23](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/df2023e3-4711-4c28-91ad-ea88620bfe54)
 
 
 **Install osTicket**
@@ -155,20 +155,6 @@ vm-osTicketC \> Sites \> Default Web Site \>osTicket \> Browse \*.80 (http)
 
 **osTicket Installer** appears \> Observe some features are not enabled # **X.**
 ![osTicket C 31](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/2ceae063-7c56-445d-bb41-bb28ad2fc0ad)
-
-
-
-
-
-
-
-
-
-
-
-
-![osTicket C 30](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/88004c7a-a9a9-462e-bb26-8325aa66a475)
-
 
 Go back to IIS \> Default Web Site \> osTicket \> Double-click on PHP Manager
 Click Enable or Disable an extension \> Enable
