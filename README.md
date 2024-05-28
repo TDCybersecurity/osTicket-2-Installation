@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-# **osTicket-Installation-2**
+# **osTicket: 2 Installation Guide**
 # **Installation of Prerequisites and osTicket**
 ## **What is osTicket?**
 osTicket is a widely used and trusted open source ticketing system that allows you to easily scale and streamline your customer service tracking and improve your customer experience.
@@ -261,4 +261,4 @@ Confirm End User login: [http://localhost/osTicket/](http://localhost/osTicket/)
 
 
 ### **Congratulations!
-### **This lab demonstrates hands-on experience in configuring prerequisites and installing osTicket.**
+### **This lab provides practical experience in configuring prerequisites and installing osTicket.**
