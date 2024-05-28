@@ -45,6 +45,7 @@ Go to File Explorer, observe the downloaded file.
 
 Double-click the file and follow the Setup Wizard
 Next \>  I Agree \> Next \> Close \> ****** Repair PHP Manager for IIS**\> Finish \> Close
+
 **Rewrite Module**, download and install.
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
 Go to File Explorer, observe the downloaded file.
@@ -52,13 +53,19 @@ Go to File Explorer, observe the downloaded file.
 
 Double-click the file and follow the Setup Wizard
 Install \> Finish \> Close
+
 **Create a directory C:\PHP**
+
 Go to File Explorer \> enter C: \>New \> Folder \>PHP
+
 ![osTicket C 11](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/d1a8c340-385d-4511-a6c1-b875356f4742)
 
 **php-7.3.8-nts-Win32-VC15-x86.zip**
+
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
+
 Go to File Explorer, observe the downloaded file.
+
 ![osTicket C 12](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/a4804fe8-24d5-4b23-92a5-996942d104e1)
 
 Right-click \> Extract All…\> Extract into the PHP Folder select Browse…This PC \> Windows(C:) \>
@@ -146,33 +153,42 @@ vm-osTicketC \> Sites \> Default Web Site \>osTicket \> Browse \*.80 (http)
 ![osTicket C 29](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/46a88a5d-8ea2-439b-97a7-005af7a83dfa)
 
 
-**osTicket Installer** appears \> Observe some features are not enabled
-# **X.**
+**osTicket Installer** appears \> Observe some features are not enabled # **X.**
+![osTicket C 31](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/2ceae063-7c56-445d-bb41-bb28ad2fc0ad)
 
+
+
+
+
+
+
+
+
+
+
+
+![osTicket C 30](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/88004c7a-a9a9-462e-bb26-8325aa66a475)
 
 
 Go back to IIS \> Default Web Site \> osTicket \> Double-click on PHP Manager
-
 Click Enable or Disable an extension \> Enable
-
 PHP IMAP Extension | Intl Extension | APCu Extension | Zend OP cache Extension & refresh
+![osTicket C 32](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/f899734b-e684-4613-a48f-e8000a1f7093)
 
 
 
 **Rename ost-config.php**
 
 Go to File Explorer \> This PC \> C: Drive \> wwwroot \> and open osTicket
-
 Double-include \> find **ost-sampleconfig.php** and delete out sample
-
 File is not named **ost-config.php**
-
+![osTicket C 33](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c9229f79-f802-4049-ab26-cff42bddfdbb)
 
 
 **Assign Permission on ost-config.php**
 
 Right-click on the file \> Properties \> Security \> Advanced \>
-
+![osTicket C 34](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/cf01f7d4-3c04-4591-869b-77b9737206ee)
 
 
 Click on **Remove all inherited permissions from this object**.
@@ -182,6 +198,7 @@ Click Add \> Open **Select a principal**\> Enter the object name to select **eve
 Check Names \> OK \>
 
  Full control  Modify  Read & execute  Read  Write Check all and **OK**
+![osTicket C 35](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c4f1816c-cfbd-4859-a8eb-a754f4bcc85c)
 
 
 
@@ -200,22 +217,21 @@ First: **Terry** Last: **Davis** Email: [**td@gmail.com**](mailto:td@gmail.com)
 Username: **Terry** Password: **Password1**
 
 **Install HeidiSQL**
-
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
-
 Go to File Explorer, observe the downloaded file.
-
+![osTicket C 37](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/c54c9086-0772-4b73-85d9-42f93ff6673f)
 
 
  I accept the agreement \> Next \> Next \> Next \> Install \>  Launch FeidiSQL \> Finish \> **Donate Feature** Skip \>Donate.
 
+
 Create a new connection
-
 Click + New
-
+![osTicket C 38](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/f3276974-ece4-40da-9709-1aad41a17a45)
 
 
 Select Unnamed \> Create new \> Database \> Name osTicket \> OK
+![osTicket C 39](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/622707f8-76de-4fc1-ae13-9ab67fbe7496)
 
 
 
@@ -226,6 +242,7 @@ Go back to osTicket and enter the following:
 | ost\_ | Localhost | osTicket | Root | Password1 |
 
 Click on **Install Now**
+![osTicket C 40](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/3b80e98c-3be0-4dbc-8d8a-d8d2ff6e3f84)
 
 
 
@@ -236,6 +253,7 @@ Go to inetpub\> wwwroot \> osTicket \> setup Right-click and Delete
 Set Permissions to: **Read only**
 
 Go to include\>ost-config.php \> Right-click Properties \> Security \> Advanced \> Everyone\> Edit so that  Read & execute  Read are selected \> OK \> Apply \> OK
+![osTicket C 41](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/782a323f-c390-47d9-84da-854501b09520)
 
 
 
