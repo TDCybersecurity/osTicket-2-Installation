@@ -67,42 +67,44 @@ PHP \> **Select Folder** then click **Extract**
 
 
 **VC-redist.x86.exe**
-
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
-
 Go to File Explorer, observe the downloaded file.
+![osTicket C 14](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/fecd4234-24d8-459b-8636-5f402a75f8d9)
+
+
+
+
+
+
 
 
 
 Double-click on download \>  I agree to the license terms and conditions \> Install \> Close
-
+![osTicket C 15](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/3637abd3-6411-4298-abbd-2303e5ea6c3f)
 
 
 **Mysql-5.5.62-win32.msi**
-
 Go to installation files and **Download**\> This file type might be dangerous \> Download anyway
-
 Go to File Explorer, observe the downloaded file.
-
+![osTicket C 16](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/7d9e0b68-b765-4d6f-88af-4376682111a0)
 
 
 Next \>  I accept the terms in the License Agreement \> Next \> Typical \> Install \>
-
  Launch the MySQL Instance Configuration Wizard \> Finish \> Next \> Standard Configuration\>
-
 Next \> Install As Windows Service Next \> New **root** password: **Password1**| Confirm: **Password1**
-
 Next \> Execute \> Processing configuration…\> Finish
 
-
+![osTicket C 17](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/697408f4-58ce-4ee1-84de-1ae71279c8e7)![osTicket C 18](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/b081d63d-2ba0-4aae-bfb8-57591894ee91)
 
 **Open IIS as an Administrator**
 
 Click on **Microsoft Start**, enter **IIS** and **Run as administrator.**
-
+![osTicket C 19](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/3460aa06-3e67-4764-bfec-5dcdd186cc2b)
 
 
 Observe previous downloads URL Rewrite and PHP Manager \> Click on **PHP Manager**
+![osTicket C 20](https://github.com/TDCybersecurity/osTicket-Installation-2/assets/142702123/70fae9f6-52b0-4167-9b86-9e0af6d11f40)
+
 
 
 
