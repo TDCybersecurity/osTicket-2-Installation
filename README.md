@@ -261,4 +261,4 @@ Confirm End User login: [http://localhost/osTicket/](http://localhost/osTicket/)
 
 
 ### **Congratulations!
-### **This lab provides practical experience in configuring prerequisites and installing osTicket.**
+### **This lab provides hands-on  experience with the prerequisites for osTicket which are Information Information Services, PHP Manager, Rewrite, PHP, VC-redist.x86, MySQL, and HeidiSQL; once these are installed, you can download, install, and configure osTicket.**
